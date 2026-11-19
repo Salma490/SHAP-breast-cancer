@@ -1,0 +1,12 @@
+
+**3. Create requirements.txt:**
+Create another file called `requirements.txt` in the same folder and paste this in:
+```text
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+xgboost
+jupyter
