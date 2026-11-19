@@ -27,10 +27,9 @@ This project trains an XGBoost classifier on the Breast Cancer dataset and uses 
 - **Global Feature Importance (SHAP)**
   <img width="804" height="940" alt="Global Feature Importance (Mean SHAP value)" src="https://github.com/user-attachments/assets/ac3dcda4-f5f6-4c30-828c-096a0d520788" />
 - **Beeswarm Plot**
-  ![Uploading SHAP Summary Plot (Feature Impact on Prediction).png…]()
+  <img width="775" height="940" alt="SHAP Summary Plot (Feature Impact on Prediction)" src="https://github.com/user-attachments/assets/af92257b-0e32-4492-abd1-9f6654b10d35" />
 - **Local Explanation (Waterfall)**
-  ![Uploading Global Feature Importance (Mean SHAP value).png…]()
-
+  <img width="792" height="640" alt="Local Explanation Why did the model make this prediction" src="https://github.com/user-attachments/assets/c0a227b6-347b-47fc-901a-81bd1cc851ec" />
 
 ## 6. Limitations
 - The dataset is relatively small and already clean (no missing values), which is rare in real-world clinical data.
