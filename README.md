@@ -24,7 +24,6 @@ This project trains an XGBoost classifier on the Breast Cancer dataset and uses 
 - **Key Finding:** Built-in XGBoost feature importance heavily favors early-split features (like `worst radius`), while SHAP provides a more balanced and mathematically rigorous attribution. SHAP revealed that features like `area error` and `compactness error` are highly influential, which were completely ignored by the built-in importance.
 
 ## 5. Visuals
-*(Add your images here once you upload them)*
 - **Global Feature Importance (SHAP)**
   <img width="804" height="940" alt="Global Feature Importance (Mean SHAP value)" src="https://github.com/user-attachments/assets/ac3dcda4-f5f6-4c30-828c-096a0d520788" />
 - **Beeswarm Plot**
